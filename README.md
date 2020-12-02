@@ -1,1 +1,1 @@
-# RentalGalleryResponsive
+# RentalGallery-Responsive
